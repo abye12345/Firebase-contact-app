@@ -33,7 +33,7 @@ A modern, responsive contact management application built with React and styled 
 1. Clone the repository:
 
 ```bash
-git clone <https://github.com/abye12345/Firebase-Contact-App.git>
+git clone <https://github.com/abye12345/Firebase-contact-app.git>
 ```
 
 2. Navigate to the project directory:
