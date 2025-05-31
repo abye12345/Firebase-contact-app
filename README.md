@@ -60,7 +60,7 @@ npm start
 yarn start
 ```
 
-5. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+5. Open [http://localhost:3000](https://abye12345.github.io/Firebase-contact-app/) to view it in your browser.
 
 ## Usage
 
