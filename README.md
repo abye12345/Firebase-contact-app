@@ -4,6 +4,8 @@ A modern, responsive contact management application built with React and styled 
 
 ![Firebase Contact App Logo](https://www.gstatic.com/devrel-devsite/prod/v63a7e59e7b93b62eb99aa3751cce206090432f0c0d09ff73f0d3636dcec4ab60/firebase/images/touchicon-180.png)
 
+[Live Demo](https://abye12345.github.io/Firebase-contact-app/)
+
 ## Features
 
 - 📱 Responsive design that works on desktop and mobile
