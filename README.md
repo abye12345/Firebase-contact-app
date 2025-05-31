@@ -14,7 +14,7 @@ A modern, responsive contact management application built with React and styled 
 - 🗑️ Delete contacts
 - 🔍 Search interface (coming soon)
 - 💫 Smooth animations and transitions
-- 🎨 Modern UI with Tailwind CSS
+- 🎨 Modern UI with Tailwind CSS.
 
 ## Technologies Used
 
